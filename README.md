@@ -1,5 +1,5 @@
 ## Yo! 😶‍🌫️
-👋 Name's **Kakorry** - I'm a new software dev currently working with **Kotlin** and **Android Development**.
+👋 Name's **Kakorry** - I'm a High Schooler new software dev currently working with **Kotlin** and **Android Development**.
 
 [![Skills](https://skillicons.dev/icons?i=androidstudio,vscode,neovim,kotlin,py,linux,nix,bash)](https://skillicons.dev)
 

@@ -1,10 +1,9 @@
 ## Yo! 😶‍🌫️
 👋 Name's **Kakorry** - I'm a High Schooler and new software dev currently working with **Kotlin** and **Android Development**.
 
-[![Skills](https://skillicons.dev/icons?i=androidstudio,vscode,neovim,kotlin,py,linux,nix,bash)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=androidstudio,vscode,neovim,kotlin,py,linux,bash)](https://skillicons.dev)
 
 💡 I'm deeply interested in:
-- Linux (Especially **NixOS**)
 - Music Apps
 - Gaming
 - Open Source Software
